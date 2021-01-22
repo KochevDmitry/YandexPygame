@@ -1,2 +1,1 @@
-# YandexPygame
-Игра по яндексу
+#PHP
